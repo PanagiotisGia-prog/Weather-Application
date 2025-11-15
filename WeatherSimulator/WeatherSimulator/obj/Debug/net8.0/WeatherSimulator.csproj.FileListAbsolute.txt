@@ -1,0 +1,14 @@
+D:\DotNet\WeatherSimulator\WeatherSimulator\bin\Debug\net8.0\WeatherSimulator.exe
+D:\DotNet\WeatherSimulator\WeatherSimulator\bin\Debug\net8.0\WeatherSimulator.deps.json
+D:\DotNet\WeatherSimulator\WeatherSimulator\bin\Debug\net8.0\WeatherSimulator.runtimeconfig.json
+D:\DotNet\WeatherSimulator\WeatherSimulator\bin\Debug\net8.0\WeatherSimulator.dll
+D:\DotNet\WeatherSimulator\WeatherSimulator\bin\Debug\net8.0\WeatherSimulator.pdb
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.AssemblyInfoInputs.cache
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.AssemblyInfo.cs
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.csproj.CoreCompileInputs.cache
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.dll
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\refint\WeatherSimulator.dll
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.pdb
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\WeatherSimulator.genruntimeconfig.cache
+D:\DotNet\WeatherSimulator\WeatherSimulator\obj\Debug\net8.0\ref\WeatherSimulator.dll
